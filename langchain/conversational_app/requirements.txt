@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_openai
+huggingface_hub
+python-dotenv
+openai
+pypdf
+faiss-cpu
+google-search-results
